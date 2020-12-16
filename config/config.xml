@@ -1,0 +1,20 @@
+<config>
+  
+  <input>
+    
+    <csv1>dataframe1.csv</csv1>
+    <csv2>dataframe2.csv</csv2>
+    <csv3>dataframe3.csv</csv3>
+    <csv4>ataframe4.csv</csv4>
+    <sep>,</sep>
+    
+  </input>
+  
+  <output>
+    
+    <pais>pais</pais>
+    <anyo>anyo</anyo>
+    <valor>valor</valor>
+    
+  </output>
+</config>
